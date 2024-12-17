@@ -1,0 +1,26 @@
+.calendar-app {
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+.calendar-container {
+    display: flex;
+    justify-content: center;
+}
+
+.event-form {
+    margin: 20px 0;
+}
+
+.event-form input {
+    margin: 5px;
+}
+
+.events-list {
+    margin-top: 20px;
+}
+
+.event-item {
+    margin: 5px 0;
+}
